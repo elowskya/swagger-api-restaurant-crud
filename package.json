@@ -1,0 +1,22 @@
+{
+  "name": "swagger-api-restaurant-example",
+  "version": "1.0.0",
+  "description": "swagger restaurant api example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "swagger",
+    "api"
+  ],
+  "author": "ashley elowsky",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "swagger-ui-express": "^4.3.0"
+  }
+}
